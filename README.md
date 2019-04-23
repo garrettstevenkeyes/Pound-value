@@ -15,9 +15,15 @@ From there you go to localhost:8000 in your browser. All browsers will work but 
 To make this graphic I first had to parse the Json data to make it readable. From there I constructed the base line chart which programmatically calculates the line coordinates. After making the lie chart I included the UI slider in the HTML. Next I created a filter function that shows values for the filtered date range. And then i refactored the chart to fit in the d3 update pattern. 
 
 ## Dependencies used
+
 HTML5 
+
 CSS
+
 JavascriptES6
+
 JQuery 
+
 d3.js
+
 JQuery UI
